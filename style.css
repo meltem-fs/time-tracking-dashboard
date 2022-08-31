@@ -15,9 +15,9 @@ body {
 main.container {  
   background-image: url(./images/bird-profile-phoenix-the-dark-background-wallpaper-preview.jpg);
   background-repeat: no-repeat;
-  background-size: 10rem;
+  background-size: 5rem;
   background-position-x: center;
-  background-position-y: 1rem;
+  background-position-y: bottom;
   
   background-color: rgb(25, 25, 26);
   width: 84rem;
@@ -173,6 +173,11 @@ main.container {
     text-align: center;
     padding: 5rem;
     background-size: 5rem ;
+     background-image: url(./images/bird-profile-phoenix-the-dark-background-wallpaper-preview.jpg);
+  background-repeat: no-repeat;
+  background-size: 5rem;
+  background-position-x: center;
+  background-position-y: bottom;
   }
 
   .top1 img {
